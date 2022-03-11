@@ -1,4 +1,4 @@
-# Open Punks
+# Open Punks developed by Seongha
 
 ## Technology Stack & Tools
 
